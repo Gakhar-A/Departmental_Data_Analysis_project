@@ -1,2 +1,2 @@
 # Departmental_Data_Analysis_project
-I created this data analysis project that includes a Research Paper and the Dashboard using Power BI.
+WE created this data analysis project that includes a Research Paper and the Dashboard using Power BI.
